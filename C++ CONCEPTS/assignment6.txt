@@ -1,0 +1,14 @@
+6)When static keyword is used,variable or data members or functions can not be modified again.
+it is allocated for lifetime of a program.
+static functions can be called directly by using class name.static variables are initialised only once.
+
+7)diffrence between constructor and method?
+*Constructor is used to initialize an object whereas method is used to exhibits functionality of an object.
+*Constructors are invoked implicitly whereas methods are invoked explicitly.
+*Constructor does not return any value where the method may/may not return a value.
+
+8)Explain Access specifiers?
+*Access specifiers define how the members (attributes and methods) of a class can be accessed.
+*public - members are accessible from outside the class
+*private - members cannot be accessed (or viewed) from outside the class
+*protected - members cannot be accessed from outside the class, however, they can be accessed in inherited classes.
