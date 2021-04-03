@@ -1,3 +1,4 @@
 springbootCrud.zip filter=lfs diff=lfs merge=lfs -text
 Spring filter=lfs diff=lfs merge=lfs -text
 *Spring filter=lfs diff=lfs merge=lfs -text
+springwithhibernatesecuritytransaction.zip filter=lfs diff=lfs merge=lfs -text
